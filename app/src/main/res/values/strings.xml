@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">FurnitureStore</string>
+    <string name="forgot" translatable="false"><u>Forgot your password ?</u></string>
+    <string name="contact_us">Contact us</string>
+    <string name="logging_you_in">Logging you in...please wait...</string>
+    <string name="reset_dialog">Please enter your email and click \'Reset\' to get the reset link. Click \'Cancel\' to exit</string>
+</resources>
